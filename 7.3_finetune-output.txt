@@ -1,0 +1,21 @@
+
+Experimental details:
+    Model     : resnet
+    Optimizer : adam
+    Learning  : 0.001
+    Global Rounds   : 500
+
+    Fraction of users  : 1.0
+    Local Batch size   : 256
+    Local Epochs       : 5
+
+sampling for dataset: cifar
+Files already downloaded and verified
+dataset sample num: (50000, 32, 32, 3)
+Files already downloaded and verified
+Files already downloaded and verified
+get dataset time: 2.709
+sample dataset time: 0.031
+user data samples: [10000, 10000, 10000, 10000, 10000]
+feat dim: 512
+feat dim: 512
